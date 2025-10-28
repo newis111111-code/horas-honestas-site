@@ -30,7 +30,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold text-lg mb-4">Siga-nos</h4>
             <a
-              href="https://www.instagram.com/horashonestas/"
+              href="https:/www.instagram.com/horashonestas/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-2 bg-[#0094E8] text-white px-6 py-3 rounded-lg hover:bg-[#0080cc] transition-colors"
