@@ -41,7 +41,7 @@ export default function Header() {
               Contacto
             </button>
             <a
-              href="https://www.instagram.com/horashonestas/"
+              href="https:/www.instagram.com/horashonestas/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 bg-[#0094E8] text-white px-4 py-2 rounded-lg hover:bg-[#0080cc] transition-colors"
@@ -78,7 +78,7 @@ export default function Header() {
                 Contacto
               </button>
               <a
-                href="https://www.instagram.com/horashonestas/"
+                href="https:/www.instagram.com/horashonestas/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 bg-[#0094E8] text-white px-4 py-2 rounded-lg hover:bg-[#0080cc] transition-colors w-fit"
