@@ -59,7 +59,7 @@ export default function Projects() {
 
         <div className="text-center mt-12">
           <a
-            href="https://www.instagram.com/horashonestas/"
+            href="https:/www.instagram.com/horashonestas/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center text-[#0094E8] font-semibold text-lg hover:text-[#0080cc] transition-colors"
